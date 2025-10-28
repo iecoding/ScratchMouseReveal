@@ -12,8 +12,9 @@ span{
     aspect-ratio:1;
     border-radius:50%;
     position:fixed;
-    background-image: url(images/nature.jpg);
+    background-image: url(./nature.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+
 }
